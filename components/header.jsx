@@ -27,9 +27,9 @@ export default async function Header() {
           <Image
             src="/logo-single.png"
             alt="Medimeet Logo"
-            width={200}
-            height={60}
-            className="h-10 w-auto object-contain"
+            width={400}
+            height={80}
+            className="h-20 w-auto object-contain"
           />
         </Link>
 
